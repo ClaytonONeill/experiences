@@ -12,14 +12,22 @@ function LandingContent() {
     <Container className="landing-content-container fade-in" fluid>
       <div>
         <div className="landing-content-text-container">
+          <h5>A Glimpse Into History...</h5>
           <p className="landing-content-overview">
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Vel, fuga
-            voluptates soluta itaque explicabo a necessitatibus esse commodi
-            provident delectus impedit repellat atque sed eius mollitia
-            recusandae! Ut, repellat nihil.
+            Step into the past and immerse yourself in one of the most pivotal
+            and harrowing periods of history. Our immersive reenactment
+            experience takes you to a concentration camp setting during World
+            War II, where you can live out the roles of either a prison guard or
+            an inmate.
+          </p>
+          <p>
+            This unique experience offers an unprecedented chance to understand
+            the harsh realities of life within a concentration camp, allowing
+            participants to connect with history in a personal and impactful
+            way.
           </p>
           <p className="landing-content-question-text">
-            <b>Which side are you on?</b>
+            <h5>Which side will you be on?</h5>
           </p>
         </div>
         <div className="landing-content-button-container">
